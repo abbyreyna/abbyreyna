@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on mastering Javascript!
-- 🌱 I’m also learning Adobe XD to create mockup websites. 
-- 👯 I’m looking to collaborate on fullstack projects.
+- 🌱 I’m also working on my French. 
+- 👯 I’m open to collaborate on fullstack projects.
 - 💬 Ask me about anything! I'm always happy to help.
-- ⚡ Fun fact: I love creating things! My favorite things to create are projects with code, baking/cooking, gundam kits and crocheting. 
+- ⚡ Fun fact: I love creating things! My favorite things to create are projects with code, food/desserts, gundam kits and cute things that I crochet.
 
